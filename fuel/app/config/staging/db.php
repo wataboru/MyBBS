@@ -6,9 +6,9 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=fuel_staging',
-			'username'   => 'fuel_app',
-			'password'   => 'super_secret_password',
+			'dsn'        => 'mysql:host=us-cdbr-iron-east-03.cleardb.net;dbnae=heroku_d00a5c1a96446ed',
+			'username'   => 'b7d02971d6333a',
+			'password'   => 'acb52f8f',
 		),
 	),
 );

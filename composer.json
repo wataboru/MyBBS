@@ -28,6 +28,7 @@
         "zordius/lightncandy": "Allow Handlebars templating with an extremely fast PHP implementation of handlebars"
     },
     "config": {
+        "bin-dir": "vendor/bin",
         "vendor-dir": "fuel/vendor"
     },
     "extra": {
