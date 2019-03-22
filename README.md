@@ -58,7 +58,7 @@ are up to scratch, we will notice you, and will ask you to become a team member.
 <code>
 
 ## Sample
-https://mybbs-sumple.herokuapp.com/
+https://mybbs-sample.herokuapp.com/
 
 ## Overview
 スキルチェック課題として出された、会員制掲示板サイトです。  
