@@ -1,4 +1,9 @@
-#FuelPHP
+<details>
+<summary>
+<strong>FuelPHP</strong>
+</summary>
+<pre>
+<code>
 
 * Version: 1.8
 * [Website](http://fuelphp.com/)
@@ -41,8 +46,19 @@ are up to scratch, we will notice you, and will ask you to become a team member.
 * Phil Sturgeon - Developer ([http://philsturgeon.co.uk](http://philsturgeon.co.uk))
 * Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
 
-# MyBBS
-====
+</code>
+</pre>
+</details>
+
+<details>
+<summary>
+<strong>本アプリケーションについて</strong>
+</summary>
+<pre>
+<code>
+
+## Sample
+https://mybbs-sumple.herokuapp.com/
 
 ## Overview
 スキルチェック課題として出された、会員制掲示板サイトです。  
@@ -59,6 +75,10 @@ are up to scratch, we will notice you, and will ask you to become a team member.
 - Bootstrap4のデザインテンプレート導入
 - スレッド内に動画、画像、マップなどの付加情報を添付出来る仕様を追加
 - etc.
+
+</code>
+</pre>
+</details>
 
 ## Author
 [wataru](https://github.com/wataboru)  
