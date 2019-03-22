@@ -1,0 +1,31 @@
+div#header {
+  height: 65px;
+  margin: 2px;
+  font-size: 20px;
+  border-bottom:solid;
+  border-width: thin;
+}
+
+div.TOP {
+  text-align: left;
+}
+
+div.LOGIN, div.SIGNUP {
+  text-align: center;
+}
+
+div#footer {
+  color: gray;
+  text-align:  center;
+  margin-top: 40px;
+  height: 30px;
+  font-size: 12px;
+  border-top: solid;
+  border-width: thin;
+  border-color: gray;
+}
+
+li ul {
+  list-style: none;
+  font-size: 18px;
+}
