@@ -9,7 +9,7 @@ class Presenter_CommonUtil
     $counter = 0;
     $referrer = preg_split('[/]', Input::referrer());
 
-    for ($i=4;$i<count($referrer);$i++) {
+    for ($i=3;$i<count($referrer);$i++) {
     $referrerUri = $referrerUri.'/'.$referrer[$i];
     }
     
