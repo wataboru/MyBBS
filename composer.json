@@ -18,11 +18,6 @@
     "require-dev": {
         "fuel/docs": "1.8.*"
     },
-    "autoload": {
-        "psr-4": {
-            "MyBBS\\": "src/"
-        }
-    },
     "suggest": {
         "dwoo/dwoo" : "Allow Dwoo templating with the Parser package",
         "mustache/mustache": "Allow Mustache templating with the Parser package",
